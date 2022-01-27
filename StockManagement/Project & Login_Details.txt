@@ -1,0 +1,24 @@
+Name : Kamarum Monira Mow
+ID : 2018-1-60-016
+Course : CSE480
+Section : 02
+
+PROJECT : Stock Management System
+----------------------------------
+
+MASTER:
+=======
+Email: mow.monira@gmail.com
+Password: 1234567
+
+
+Sales executive(user):
+======================
+Email: a@gmail.com
+Password: 123456
+
+Email: b@gmail.com
+Password: 123456
+
+Email: c@gmail.com
+Password: 123456
